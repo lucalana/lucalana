@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Luca</h1>
-<h2 align="center">Desenvolvedora de software Full Stack</h2>
+<h2 align="center">Desenvolvedor de software Full Stack</h2>
 <div align="center">
   <img height= "300" src="./boycode.png" />
 </div>
