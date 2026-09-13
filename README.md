@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Luca%20👋&fontSize=42&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20from%20Brazil&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Luca%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20from%20Brazil&descAlignY=52&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Brazil+%F0%9F%87%A7%F0%9F%87%B7;3%2B+years+building+web+applications;Laravel+%7C+PHP+%7C+JavaScript+%7C+Node.js;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
@@ -11,10 +11,9 @@
 ### 🧭 About me
 
 - 🔭 I'm a solution-oriented **Software Engineer** with **3+ years** of professional experience
-- 💻 I mainly work with **Laravel, PHP, JavaScript** and modern web stacks
+- 💻 I mainly work with **Laravel, PHP, Java (Spring Boot / Quarkus), JavaScript** and modern web stacks
 - 🌱 Always exploring new tools, frameworks and best practices
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luca-lana/) or by [email](mailto:lucalana.mg@outlook.com)
-- ⚡ Fun fact: this README updates its snake game every day 🐍
 
 <br>
 
@@ -29,10 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=lucalana&theme=dracula&hide_border=false" height="165" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucalana&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
-</div>
-
 <br>
 
 ### 🛠️ Tech stack
@@ -43,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring boot logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="30" alt="quarkus logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="10" />
